@@ -14,17 +14,17 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /text-analysis
 # location of code, the full url to your github repository
-source-code: https://github.com/learn-static/text-analysis
+source-code: https://github.com/ararebit/ringofkeys
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Writing with Visualizations
+title: Ring of Keys
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Create a multimedia essay webpage and visualize historical text as data
+tagline: Moments of queer recognition
 # creator of the digital project, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: owikle
+author: ararebit
 
 # collection
 collections:
