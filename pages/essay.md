@@ -22,6 +22,10 @@ Example text to be cited.[^1]
 
 Yet more text to cite.[^2]
 
+{% include feature/line-chart.html data="sotu-20th-century" topic="labor in America" %}
+
+It's driving me up the wall that my edits aren't rendering on the front end of my website immediately.
+
 ## Conclusion
 
 - bullpen
