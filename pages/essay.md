@@ -16,6 +16,8 @@ Every time Nick Pivetta pitches a good game, I reread Andy Lattimer's comic, "[A
 
 Example text to be cited.[^1]
 
+{% include feature/image.html filename="service-pnp-npcc-01500-01535r.jpeg" alt="Two people standing at first base with hands on hips smiling at the camera" caption="Washington fans are strong for "Uncle Nick Altrock" and therefore the War Risks have Dot Meloy in training as a side line entertainer. Nick is teaching her a few of his stunts." link="https://lccn.loc.gov/2016827889" %}
+
 ## Body Section 2
 
 Yet more text to cite.[^2]
